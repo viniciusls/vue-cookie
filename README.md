@@ -78,7 +78,7 @@ Thanks for using the plugin, I am happy to accept feedback/pull requests, do not
 Happy Coding! :D
 
 ### Tests
-This packacge uses the ´´´testem``` framework and ```jasmine``` assertion library
+This package uses the ```testem``` framework and ```jasmine``` assertion library
 
 ``` bash
 # Run npm install to fetch dependencies
